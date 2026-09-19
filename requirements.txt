@@ -1,6 +1,5 @@
 yfinance
 pandas
-pandas-ta
 python-dotenv
 google-genai
 requests
