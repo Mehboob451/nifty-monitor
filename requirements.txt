@@ -1,5 +1,8 @@
 yfinance
 pandas
-pandas_ta
+pandas-ta
+python-dotenv
+google-genai
 requests
-google-generativeai
+beautifulsoup4
+streamlit
