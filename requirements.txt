@@ -1,7 +1,5 @@
-yfinance
-pandas
-python-dotenv
-google-genai
-requests
-beautifulsoup4
-streamlit
+pandas>=2.0
+numpy>=1.26
+requests>=2.31
+yfinance>=0.2.54
+feedparser>=6.0
